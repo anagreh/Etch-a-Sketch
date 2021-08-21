@@ -1,0 +1,14 @@
+.grid {
+    display: grid;
+    height: 420px;
+    width: 420px;
+    outline: 1px solid rgba(95, 95, 95, 0.26);
+    
+}
+
+.grid-item{
+    outline: 0.1px solid rgb(204, 204, 204);
+    background-color:  white;
+
+
+}
